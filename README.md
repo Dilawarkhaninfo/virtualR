@@ -47,7 +47,7 @@ To get started with this project, follow these steps:
 Clone the repository to your local machine.
 Install dependencies using npm install.
 Run the development server with npm start.
-Open your browser and navigate to http://localhost:3000 to view the website.
+Open your browser and navigate to https://virtual-r-ten.vercel.app/ to view the website.
 Installation
 If you want to use this landing page template in your project, you can install it via npm:
 
